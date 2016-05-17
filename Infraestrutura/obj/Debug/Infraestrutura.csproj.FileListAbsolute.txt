@@ -1,0 +1,16 @@
+C:\Users\thiag\Documents\Github\Treinamento_Ivia\Infraestrutura\bin\Debug\Infraestrutura.dll.config
+C:\Users\thiag\Documents\Github\Treinamento_Ivia\Infraestrutura\bin\Debug\Infraestrutura.dll
+C:\Users\thiag\Documents\Github\Treinamento_Ivia\Infraestrutura\bin\Debug\Infraestrutura.pdb
+C:\Users\thiag\Documents\Github\Treinamento_Ivia\Infraestrutura\bin\Debug\Core.dll
+C:\Users\thiag\Documents\Github\Treinamento_Ivia\Infraestrutura\bin\Debug\EntityFramework.dll
+C:\Users\thiag\Documents\Github\Treinamento_Ivia\Infraestrutura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thiag\Documents\Github\Treinamento_Ivia\Infraestrutura\bin\Debug\Core.pdb
+C:\Users\thiag\Documents\Github\Treinamento_Ivia\Infraestrutura\bin\Debug\EntityFramework.xml
+C:\Users\thiag\Documents\Github\Treinamento_Ivia\Infraestrutura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thiag\Documents\Github\Treinamento_Ivia\Infraestrutura\obj\Debug\Infraestrutura.csprojResolveAssemblyReference.cache
+C:\Users\thiag\Documents\Github\Treinamento_Ivia\Infraestrutura\obj\Debug\Infraestrutura.dll
+C:\Users\thiag\Documents\Github\Treinamento_Ivia\Infraestrutura\obj\Debug\Infraestrutura.pdb
+C:\Users\thiag\Documents\Github\Treinamento_Ivia\Infraestrutura\obj\Debug\Infraestrutura.Migrations.Inicio.resources
+C:\Users\thiag\Documents\Github\Treinamento_Ivia\Infraestrutura\obj\Debug\Infraestrutura.csproj.GenerateResource.Cache
+C:\Users\thiag\Documents\Github\Treinamento_Ivia\Infraestrutura\obj\Debug\Infraestrutura.Migrations.test.resources
+C:\Users\thiag\Documents\Github\Treinamento_Ivia\Infraestrutura\obj\Debug\Infraestrutura.Migrations.test2.resources
